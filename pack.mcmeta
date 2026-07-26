@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "pack_format": 107,
+    "min_format": 106,
+    "max_format": 108,
+    "description": [
+      { "text": "Sleep in the End\n", "color": "dark_purple", "bold": true },
+      { "text": "by ItzChoko_", "color": "aqua" }
+    ]
+  }
+}
