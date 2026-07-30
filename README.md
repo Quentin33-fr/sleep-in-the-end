@@ -1,11 +1,12 @@
 <div align="center">
 
-![Sleep in the End](https://cdn.modrinth.com/data/cached_images/f837400aa1c40eea07207e739ea117365cd720f9_0.webp)
+![SLEEP IN THE END](https://cdn.modrinth.com/data/cached_images/85f2cc9fa549e402b3476e67c63a58c5e38b5d7d_0.webp)
 
 **A minimal datapack that allows sleeping in the End.**
 
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Minecraft](https://img.shields.io/badge/Minecraft-26.2+-4CAF50?style=for-the-badge&logo=minecraft)
+![Minecraft](https://img.shields.io/badge/Minecraft-26.2+-4CBF59?style=for-the-badge&logo=minecraft)
+![Datapack](https://img.shields.io/badge/Datapack-✓-orange?style=for-the-badge&logo=fabricmc)
 ![Discord](https://img.shields.io/badge/Discord-itzchoko__-5865F2?style=for-the-badge&logo=discord)
 
 </div>
@@ -25,7 +26,7 @@ By default, Minecraft prevents sleeping in the End and the Nether. This datapack
 
 ## 📦 Installation
 
-1. Download the `sleep_in_the_end.zip` file (or clone this repository).
+1. Download the `sleep_in_the_end.zip` file.
 2. Place the `.zip` file into your world's `datapacks` folder:
    ```
    .minecraft/saves/<world_name>/datapacks/
